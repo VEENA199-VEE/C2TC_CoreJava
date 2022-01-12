@@ -1,4 +1,4 @@
-package com;
+package Basic_Programs;
 class Box
 {
 	float width;
