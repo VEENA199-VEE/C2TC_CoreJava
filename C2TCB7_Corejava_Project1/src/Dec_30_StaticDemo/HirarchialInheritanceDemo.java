@@ -1,5 +1,5 @@
 
-package com;
+package Dec_30_StaticDemo;
 class Base
 {
 	static int i;

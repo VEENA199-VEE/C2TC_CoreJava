@@ -1,5 +1,5 @@
 
-package com;
+package Jan_5_Polymorphism;
 class Bank
 {
 	float getRateOfInterest()

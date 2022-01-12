@@ -1,4 +1,4 @@
-package com;
+package Jan_4_Inheritance;
 
 public class Student {
 	int id;
