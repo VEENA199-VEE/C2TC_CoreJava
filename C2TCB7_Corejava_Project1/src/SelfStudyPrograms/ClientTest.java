@@ -1,4 +1,4 @@
-package LinkedList;
+package SelfStudyPrograms;
 
 import java.util.LinkedList;
 
