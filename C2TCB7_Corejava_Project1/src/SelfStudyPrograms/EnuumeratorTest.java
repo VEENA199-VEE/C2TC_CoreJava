@@ -18,6 +18,7 @@ public class EnuumeratorTest {
 			Integer n = elements.nextElement();
 			System.out.println(n);
 		
+		
 		}
 		System.out.println("----------------");
 		
