@@ -28,6 +28,7 @@ public class LinkedHashSetExample {
 		Set<Integer> s=  new LinkedHashSet<Integer>();
 		
 		for (int i= 0; i<a.length;i++) {
+			
 		s.add(a[i]);
 		
 	}
