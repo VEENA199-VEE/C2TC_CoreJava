@@ -1,4 +1,4 @@
-package DataBase;
+package Multithreading_Synchronisation;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
